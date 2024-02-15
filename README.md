@@ -2,7 +2,7 @@
 
 # About the project 
 ## English  abstractive  summarization :
-using T5-small model [Model card](https://huggingface.co/lilouuch/t5-small-finetuned-xsum_epoch4)
+using T5-small model [Model card](https://huggingface.co/lilouuch/t5-small-finetuned-xsum_epoch4) <br>
 using Flan-T5 base model [Model card](https://huggingface.co/lilouuch/flan-t5-base-finetuned-xsum_epoch_27)
 
 
